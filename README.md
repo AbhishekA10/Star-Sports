@@ -1,0 +1,2 @@
+# Star-Sports
+Star Sports is a dynamic website which is created using various web development technologies. The front end technologies used are HTML, CSS, BOOTSTRAP, JAVASCRIPT and JQUERY. The back end technology used is PHP. This is a website which provides the information regarding all the sports that are broadcasted across the star sports network. Another feature of this website is the admin login who can access the data entered into the database and can also make changes to it.
